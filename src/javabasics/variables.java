@@ -40,7 +40,7 @@ public class variables {
 		
 		System.out.println("Git/github integration");
 		System.out.println("Git/SeleniumWebdriver integration");
-
+		System.out.println("Committing from local branch to master");
 	}
 
 }
