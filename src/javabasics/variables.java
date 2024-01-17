@@ -38,7 +38,7 @@ public class variables {
 		char myChar = 'A';
 		System.out.println(myChar);
 		
-		
+		System.out.println("Git/github integration");
 		
 
 	}
